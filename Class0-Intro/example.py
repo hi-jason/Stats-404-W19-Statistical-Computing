@@ -2,6 +2,6 @@
 """Attempt to modify
 x = 500
 y = x + 1
-z = x * y
+z = x - y
 print(z)
 
